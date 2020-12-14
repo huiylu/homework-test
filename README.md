@@ -25,4 +25,7 @@ Here's what you need to do!
 ### Step 3
 
 * Push your changes to your github.
-* Make a pull request and fill out the form if it's there!
+* Make a pull request and fill out the form if it's there
+* Relax!
+
+![](https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif)
